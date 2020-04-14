@@ -62,7 +62,7 @@ class Projects extends Component {
             </CardText>
             <CardActions border>
             <Button href="https://github.com/sjervin07/Password_Generator.git" colored>Github</Button>
-            <Button href="https://sjervin07.github.io/Password_Generator/" colored>Deployed App</Button>>
+            <Button href="https://sjervin07.github.io/Password_Generator/" colored>Deployed App</Button>
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
               <IconButton name="share" />

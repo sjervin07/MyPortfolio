@@ -39,4 +39,3 @@ class App extends Component {
 export default App;
 
 
-//This is coded and personalized by myself. I did follow a youtube tutorial as a guide
