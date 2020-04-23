@@ -9,7 +9,7 @@ class Contact extends Component {
           <Cell col={6}>
             <h2>Shannon Ervin</h2>
             <hr></hr>
-             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>Initiative-taking and self-driven developer looking for an opportunity in the Full Stack Web Development field. I am a task--oriented, visual learner who loves working both independently and in a collaborative setting. I am skilled in Full Stack, including HTML, CSS, JavaScript, NODE.JS packages, REACT, SQL/Mongo, NOSQL, and React. I strive for excellence and am enthusiastic about the work that I do.</p>
+             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>Questions about projects or future endeavors? Are you hiring? I would love to hear from you! Send me an email or give me a call and let's talk.</p>
           </Cell>
           <Cell col={6}>
             <h2>Contact Me</h2>

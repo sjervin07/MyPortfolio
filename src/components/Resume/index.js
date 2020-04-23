@@ -38,13 +38,9 @@ class Resume extends Component {
               endYear={2020}
               jobName="Medical Support Assistant"
               jobDescription="•	Manage admissions, transfers and discharges in a high-flow inpatient ward
-              •	Act as liaison between physicians, nurses, pharmacists and management staff
               •	Simultaneously run/maintain several electronic medical records systems
               •	Played integral roll in revamping order sets for the admission, inpatient, and discharge process in the electronic medical records system (EMR)
-              •	Contribute to ward improvements such as inpatient flow and bed coordination
-              •	Designated “Super User”: Responsible for seeing through implementation of two new records systems and training new users
-              •	Participate in several interdisciplinary committees to improve algorithms for EMRs
-              •	Main contact for the onboarding of approximately 20 new employeesManaged admissions, discharges and tranfers on high-flow inpatient ward. Simultaneously run/maintain several electronic medical records systems. Played integral roll in revamping order sets for the admission, inpatient, and discharge process in the electronic medical records system (EMR)"
+              •	Participate in several interdisciplinary committees to improve algorithms for EMRs"
               />
 
               <Experience
@@ -56,8 +52,7 @@ class Resume extends Component {
                 •	Write and revise behavior-analytic treatment plans
                 •	Train others to implement certain aspects of treatment plans
                 •	Observe and modify behaviors with Discrete Trial Training & Pivotal Response Treatment
-                •	Record all returned data in an electronic medical record application
-                d dummy text ever since the 1500s"
+                •	Record all returned data in an electronic medical record application"
                 />
               <hr style={{borderTop: '3px solid #e22947'}} />
             <h2>Education</h2>
@@ -65,7 +60,7 @@ class Resume extends Component {
             <Education
               startYear={2019}
               endYear={2020}
-              schoolName="Nortwestern University"
+              schoolName="Northwestern University"
               schoolDescription="Full-Stack Web Development Bootcamp"
                />
 
@@ -86,16 +81,16 @@ class Resume extends Component {
 
               <h2>Skills</h2>
               <Skills
-                skill="javascript"
+                skill="HTML, CSS, JavaScript"
                 />
               <Skills
-                skill="HTML/CSS"
+                skill="Node.JS, React, Express.js"
                 />
               <Skills
-                skill="NodeJS"
+                skill="MySQL, MongoDB"
                 />
               <Skills
-                skill="React"
+                skill="PWAs, MVC Modeling, Heroku, Git/Github"
                 />
 
           </Cell>

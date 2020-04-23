@@ -13,17 +13,17 @@ class App extends Component {
     <Header className="header-color" title={<Link style={{textDecoration: 'none', color: 'white'}} to="/">Shannon Ervin Portfolio</Link>} scroll>
             <Navigation>
                 <Link to="/portfolio">Portfolio</Link>
-                <Link to="/contact">Contact Me</Link>
-                <Link to="/aboutme">About Me</Link>
                 <Link to="/resume">Resume</Link>
+                <Link to="/aboutme">About Me</Link>
+                <Link to="/contact">Contact Me</Link>
             </Navigation>
         </Header>
         <Drawer title={<Link style={{textDecoration: 'none', color: 'black'}} to="/">SJE</Link>}>
             <Navigation>
                 <Link to="/portfolio">Portfolio</Link>
-                <Link to="/contact">Contact Me</Link>
-                <Link to="/aboutme">About Me</Link>
                 <Link to="/resume">Resume</Link>
+                <Link to="/aboutme">About Me</Link>
+                <Link to="/contact">Contact Me</Link>
             </Navigation>
         </Drawer>
         <Content>
