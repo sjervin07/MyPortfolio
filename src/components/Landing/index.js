@@ -7,15 +7,13 @@ class Landing extends Component {
       <div style={{width: '100%', margin: 'auto'}}>
         <Grid className="landing-grid">
           <Cell col={12}>
+            <img
+            src="https://cdn.impactinit.com/cdn/x/x@e7156feb38/smss52/smsimg30/pv/ingimagecontributors/ing_47129_25564.jpg"
+            alt="avatar"
+            className="avatar-img"
+            />
             <div className="banner-text">
-              <br></br>
-              <br></br>
-              <br></br>
-              <br></br>
-              <br></br>
-              <br></br>
-              <br></br>
-              <h1>Full Stack Web Developer</h1>
+              <h1>Full-Stack Web Developer</h1>
             <hr/>
 
           <p>HTML/CSS | Bootstrap | JavaScript | NodeJS | Express | React | MySQL | MongoDB</p>

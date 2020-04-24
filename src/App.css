@@ -2,14 +2,12 @@
   background: #8A2387;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #F27121, #E94057, #8A2387);  /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to right, #F27121, #E94057, #8A2387); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  
 }
 
 .landing-grid {
   background: #8A2387;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #F27121, #E94057, #8A2387);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #F27121, #E94057, #8A2387); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  
+  background: linear-gradient(to right, #F27121, #E94057, #8A2387); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
   text-align: center;
   position: fixed;
   top: 0;
@@ -53,10 +51,11 @@
 .contact-grid p {
   font-family: 'Oxygen', sans-serif;
   font-weight: bold;
+  font-size: 22px;
 }
 
 .contact-grid hr {
-  border-top: 5px dotted black;
+  border-top: 5px dashed black;
   width: 50%;
   margin: auto;
 }
@@ -96,6 +95,10 @@
   color: black;
 }
 
+.avatar-img {
+  height: 250px;
+  padding-top: 5em;
+}
 .banner-text {
   background-color: black;
   opacity: .8;
@@ -112,7 +115,7 @@
 }
 
 .banner-text hr {
-  border-top: 5px dotted white;
+  border-top: 5px dashed white;
   width: 50%;
   margin: auto;
 }

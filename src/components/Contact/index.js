@@ -7,7 +7,7 @@ class Contact extends Component {
       <div className="contact-body">
         <Grid className="contact-grid">
           <Cell col={6}>
-            <h2>Shannon Ervin</h2>
+            <h2>Want to Know More?</h2>
             <hr></hr>
              <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>Questions about projects or future endeavors? Are you hiring? I would love to hear from you! Send me an email or give me a call and let's talk.</p>
           </Cell>
