@@ -20,7 +20,7 @@ class Resume extends Component {
             <h2 style={{paddingTop: '2em'}}>Shannon Ervin</h2>
             <h4 style={{color: 'grey'}}>Web Developer</h4>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}></hr>
-            <p>Initiative-taking and self-driven developer looking for an opportunity in the Full Stack Web Development field. I am a task--oriented, visual learner who loves working both independently and in a collaborative setting. I am skilled in Full Stack, including HTML, CSS, JavaScript, NODE.JS packages, REACT, SQL/Mongo, NOSQL, and React. I strive for excellence and am enthusiastic about the work that I do.</p>
+            <p>Initiative-taking and self-driven developer looking for an opportunity in the Full Stack Web Development field. I am a task-oriented, visual learner who loves working both independently and in a collaborative setting. I am skilled in Full Stack, including HTML, CSS, JavaScript, NODE.js packages, REACT, SQL/Mongo, NOSQL, and React. I strive for excellence and am enthusiastic about the work that I do.</p>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}></hr>
             <h5>Address</h5>
             <p>Chicagoland, IL</p>
@@ -39,7 +39,7 @@ class Resume extends Component {
               jobName="Medical Support Assistant"
               jobDescription="•	Manage admissions, transfers and discharges in a high-flow inpatient ward
               •	Simultaneously run/maintain several electronic medical records systems
-              •	Played integral roll in revamping order sets for the admission, inpatient, and discharge process in the electronic medical records system (EMR)
+              •	Played integral role in revamping order sets for the admission, inpatient, and discharge process in the electronic medical records system (EMR)
               •	Participate in several interdisciplinary committees to improve algorithms for EMRs"
               />
 
@@ -84,7 +84,7 @@ class Resume extends Component {
                 skill="HTML, CSS, JavaScript"
                 />
               <Skills
-                skill="Node.JS, React, Express.js"
+                skill="Node.js, React, Express.js"
                 />
               <Skills
                 skill="MySQL, MongoDB"
