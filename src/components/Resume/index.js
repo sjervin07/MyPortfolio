@@ -20,7 +20,7 @@ class Resume extends Component {
             <h2 style={{paddingTop: '2em'}}>Shannon Ervin</h2>
             <h4 style={{color: 'grey'}}>Web Developer</h4>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}></hr>
-            <p>Initiative-taking and self-driven developer looking for an opportunity in the Full Stack Web Development field. I am a task-oriented, visual learner who loves working both independently and in a collaborative setting. I am skilled in Full Stack, including HTML, CSS, JavaScript, NODE.js packages, REACT, SQL/Mongo, NOSQL, and React. I strive for excellence and am enthusiastic about the work that I do.</p>
+            <p>Initiative-taking and self-driven developer looking for an opportunity in the Full Stack Web Development field. I am a task-oriented, visual learner who loves working both independently and in a collaborative setting. I am skilled in Full Stack, including HTML, CSS, JavaScript, NODE.js packages, React, SQL/Mongo, NOSQL. I strive for excellence and am enthusiastic about the work that I do.</p>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}></hr>
             <h5>Address</h5>
             <p>Chicagoland, IL</p>
