@@ -11,14 +11,14 @@ class About extends Component {
             <hr></hr>
             <p style={{ width: '65%', margin: 'auto', paddingTop: '1em'}}>
               Hello! My name is Shannon Ervin, and I am a persuing a new career as a
-              full-stack web devloper. After years of working with children on
+              full-stack web developer. After years of working with children on
               the Autism spectrum as a Line Therpaist, and later in hospital
               administration- I desired a change. Over the last year or two I
               came to realize that I really enjoyed helping to re-develop order
               sets for the Electronic Health Records system at my job in a
               hospital. That, combined with the fact that I love problem solving
               a good puzzle, led me to web development. With a field so
-              wide-open to possibilities, I am confidnent that I will find my
+              wide-open to possibilities, I am confident that I will find my
               niche in an area that will not only be personally satifsfying but
               will also allow me to make a wider impact that reaches beyond
               myself.
